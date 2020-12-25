@@ -6,8 +6,6 @@ html {
     font-size: 100%;
 }
 body{
-    padding: 0;
-    margin: 0;
     font-family: "Yu Gothic Medium", "游ゴシック Medium", YuGothic, "游ゴシック体", "ヒラギノ角ゴ Pro W3", sans-serif;
     line-height: 1.7;
     color: #432;
@@ -15,8 +13,6 @@ body{
 a {
     text-decoration: none;
 }
-
-
 img {
     max-width: 100%;
 }
@@ -117,7 +113,6 @@ iframe {
     margin-bottom: 40px;
 }
 #news .page-title {
-    margin-top: -40px;
     text-align: center;
 }
 .news-contents {
@@ -401,4 +396,3 @@ footer p {
         margin-bottom: 30px;
     }
 }
-
